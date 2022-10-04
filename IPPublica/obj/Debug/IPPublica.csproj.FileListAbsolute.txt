@@ -1,0 +1,10 @@
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\bin\Debug\IPPublica.exe.config
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\bin\Debug\IPPublica.exe
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\bin\Debug\IPPublica.pdb
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.csproj.AssemblyReference.cache
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.Form1.resources
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.Properties.Resources.resources
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.csproj.GenerateResource.cache
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.csproj.CoreCompileInputs.cache
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.exe
+C:\Users\AUXILIAR DESARROLLO\source\repos\IPPublica\IPPublica\obj\Debug\IPPublica.pdb
